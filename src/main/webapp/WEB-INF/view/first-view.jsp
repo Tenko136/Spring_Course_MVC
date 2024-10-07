@@ -3,7 +3,7 @@
 
 <body>
 
-<h2>From Tenko with love)</h2>
+<h2>Hello, dear employee!</h2>
 <br>
 <br>
 <br>

@@ -13,9 +13,9 @@ import java.lang.annotation.Target;
 @Constraint(validatedBy = CheckEmailValidator.class)
 public @interface CheckEmail {
 
-    public String value() default "xyz.com";
+    public String value() default "abc.com";
 
-    public String message() default "Email must ends with xyz.com";
+    public String message() default "Email must ends with abc.com";
 
     public Class<?>[] groups() default {};
 

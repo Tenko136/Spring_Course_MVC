@@ -25,8 +25,8 @@ public class MyController {
     public String askEmployeeDetails(Model model) {
 
 //        Employee emp = new Employee();
-//        emp.setName("Tutullok");
-//        emp.setSurname("Unicorn");
+//        emp.setName("Anna");
+//        emp.setSurname("Petrova");
 //        emp.setSalary(1500);
 //        model.addAttribute("employee", emp);
 
